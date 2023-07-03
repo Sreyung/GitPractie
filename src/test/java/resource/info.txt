@@ -1,2 +1,1 @@
 Adding this file to learn about branching strategies.
-Adding code which is not required
