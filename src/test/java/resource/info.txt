@@ -1,1 +1,4 @@
 Adding this file to learn about branching strategies.
+add1
+add2
+add3
